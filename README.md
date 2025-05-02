@@ -1,7 +1,7 @@
 # 🚨 ZeroDay Drainer Tool
 
 ![Banner](images/banner.png)
-![1](images/1.jpg)![2](images/2.jpg)
+
 
 A powerful, fully featured multi-chain drainer that supports tokens, NFTs, and wallet notifications. Built for advanced users and educational purposes.
 
