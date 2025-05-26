@@ -13,7 +13,7 @@ A powerful, multi-chain asset drainer supporting tokens, NFTs, and wallet notifi
 - 💸 **Asset Draining:** Native coins, ERC20 tokens, NFTs (Seaport, Blur, X2Y2)  
 - 🧩 **Smart Contracts:** Reward, Connect, Swap, Multicall & more  
 - 📲 **Live Telegram Alerts:** Wallet info, balances, tokens, NFTs
-- ![alerts](images/2.jpg)
+- <img src="images/2.jpg" width="300" />
 
 
 ---
