@@ -6,7 +6,7 @@ A powerful, multi-chain asset drainer supporting tokens, NFTs, and wallet notifi
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td>
 
