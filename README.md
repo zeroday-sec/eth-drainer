@@ -6,6 +6,10 @@ A powerful, multi-chain asset drainer supporting tokens, NFTs, and wallet notifi
 
 ---
 
+<table>
+  <tr>
+    <td>
+
 ## ✅ Features
 
 - 🌐 **Multi-Chain Support:** Ethereum, BNB, Polygon, Avalanche, Arbitrum, Fantom  
@@ -13,10 +17,14 @@ A powerful, multi-chain asset drainer supporting tokens, NFTs, and wallet notifi
 - 💸 **Asset Draining:** Native coins, ERC20 tokens, NFTs (Seaport, Blur, X2Y2)  
 - 🧩 **Smart Contracts:** Reward, Connect, Swap, Multicall & more  
 - 📲 **Live Telegram Alerts:** Wallet info, balances, tokens, NFTs
-- <img src="images/2.jpg" width="300" />
 
+    </td>
+    <td>
+      <img src="images/2.jpg" width="300" />
+    </td>
+  </tr>
+</table>
 
----
 
 ## ⚙️ Requirements
 
